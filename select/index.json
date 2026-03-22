@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Victory Lap Five",
+  "base_artist": "Fred again..、Skepta、PlaqueBoyMax、Denzel Curry、Hanumankind、That Mexican OT、D Double E、LYNY",
+  "createdAt": "2026-03-22T21:46:05.039027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Victory Lap Five",
+      "artist": "Fred again..",
+      "has_synced": false,
+      "path": "select/01_Victory_Lap_Five_Fred_again...txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+      "has_synced": true,
+      "path": "select/02_Victory_Lap_Five_Fred_again..,_Skepta,_PlaqueBoyMax,_Denzel_Curry,_Hanumankind,_That_Mexican_OT,_.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Victory Lap Five",
+      "artist": "Fred again . .",
+      "has_synced": false,
+      "path": "select/03_Victory_Lap_Five_Fred_again_._..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E and LYNY",
+      "has_synced": true,
+      "path": "select/04_Victory_Lap_Five_Fred_again..,_Skepta,_PlaqueBoyMax,_Denzel_Curry,_Hanumankind,_That_Mexican_OT,_.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E e LYNY",
+      "has_synced": true,
+      "path": "select/05_Victory_Lap_Five_Fred_again..,_Skepta,_PlaqueBoyMax,_Denzel_Curry,_Hanumankind,_That_Mexican_OT,_.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E & LYNY",
+      "has_synced": true,
+      "path": "select/06_Victory_Lap_Five_Fred_again..,_Skepta,_PlaqueBoyMax,_Denzel_Curry,_Hanumankind,_That_Mexican_OT,_.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E & LYNY",
+      "has_synced": true,
+      "path": "select/07_Victory_Lap_Five_Fred_again..,_Skepta,_Plaqueboymax,_Denzel_Curry,_Hanumankind,_That_Mexican_OT,_.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Victory Lap Five (Paused)",
+      "artist": "Fred again..",
+      "has_synced": true,
+      "path": "select/08_Victory_Lap_Five_(Paused)_Fred_again...lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Victory Lap Five",
+      "artist": "D Double E, PlaqueBoyMax, Fred again.., Skepta, Denzel Curry, LYNY, That Mexican OT, Hanumankind",
+      "has_synced": true,
+      "path": "select/09_Victory_Lap_Five_D_Double_E,_PlaqueBoyMax,_Fred_again..,_Skepta,_Denzel_Curry,_LYNY,_That_Mexican.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Victory Lap Five (feat. Skepta, PlaqueBoyMax, Denzel Curry, HanuMankind, that mexican ot, D Double E & LYNY)",
+      "artist": "Fred again..",
+      "has_synced": true,
+      "path": "select/10_Victory_Lap_Five_(feat._Skepta,_PlaqueBoyMax,_Denzel_Curry,_HanuMankind,_that_me_Fred_again...lrc"
+    }
+  ]
+}
